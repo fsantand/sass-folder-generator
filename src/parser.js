@@ -3,8 +3,8 @@ const fs = require("fs");
 const del = require("del");
 
 const pattern = {
-    'sevenone': require("./architectures/sevenone"),
-    'atomic': require("./architectures/atomic")
+    'sevenone': require("../architectures/sevenone"),
+    'atomic': require("../architectures/atomic")
 }
 
 const DEFAULT_DIRECTORY = './sass';

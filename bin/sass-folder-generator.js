@@ -1,4 +1,6 @@
-const {parseArchitecture, pattern} = require('./parser');
+#!/usr/bin/env node
+
+const {parseArchitecture, pattern} = require('../src/parser');
 
 require('yargs')
     .scriptName('sass-folder-generator')

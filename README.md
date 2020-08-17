@@ -3,7 +3,7 @@
 
 ## Usage
 ```bash
-sass-folder-generator pattern <pattern-name> <args>
+sass-folder-generator create --pattern <pattern-name> <args>
 ```
 
 ## Commands
