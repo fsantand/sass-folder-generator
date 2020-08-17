@@ -16,5 +16,8 @@
   },
   "bin": {
     "sass-folder-generator": "./bin/sass-folder-generator.js"
-  }
+  },
+  "keywords": [
+    "sass", "generator", "cli"
+  ]
 }
