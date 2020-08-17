@@ -1,0 +1,9 @@
+{
+  "name": "sass-folder-generator",
+  "version": "1.0.0",
+  "description": "A sass' file structure generator",
+  "main": "index.js",
+  "repository": "https://github.com/fsantand/sass-folder-generator",
+  "author": "fsantand",
+  "license": "MIT"
+}
