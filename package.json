@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/fsantand/sass-folder-generator",
   "author": "fsantand",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "del": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "yargs": "^15.4.1"
+  }
 }

@@ -10,3 +10,5 @@ sass-folder-generator <command | commands> -o <output folder>
 | Command | Descripction |
 | -------------- | --------------------------------- |
 | -s --seven | 7-1 Architecture |
+| -a --atomic | Atomic Architecture |
+| -sm -smacss | SMACSS Architecture |
