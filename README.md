@@ -3,12 +3,12 @@
 
 ## Usage
 ```bash
-sass-folder-generator <command | commands> -o <output folder> 
+sass-folder-generator pattern <pattern-name> <args>
 ```
 
 ## Commands
 | Command | Descripction |
 | -------------- | --------------------------------- |
-| -s --seven | 7-1 Architecture |
-| -a --atomic | Atomic Architecture |
-| -sm -smacss | SMACSS Architecture |
+| sevenone | 7-1 Architecture |
+| atomic | Atomic Architecture |
+| smacss | SMACSS Architecture |
