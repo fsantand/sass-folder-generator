@@ -1,17 +1,20 @@
 {
   "name": "sass-folder-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sass' file structure generator",
-  "main": "index.js",
+  "main": "bin/sass-folder-generator.js",
   "repository": "https://github.com/fsantand/sass-folder-generator",
   "author": "fsantand",
   "license": "MIT",
   "scripts": {
-    "test": "node index.js"
+    "test": "node tests.js"
   },
   "dependencies": {
     "del": "^5.1.0",
     "fs": "^0.0.1-security",
     "yargs": "^15.4.1"
+  },
+  "bin": {
+    "sass-folder-generator": "./bin/sass-folder-generator.js"
   }
 }
